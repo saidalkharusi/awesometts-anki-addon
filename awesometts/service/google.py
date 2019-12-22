@@ -96,6 +96,7 @@ class Google(Service):
         'th': "Thai",
         'tr': "Turkish",
         'uk': "Ukrainian",
+        'ur': "Urdu",
         'vi': "Vietnamese",
         'zh-cn': "Chinese, Mandarin (PRC)",
         'zh-tw': "Chinese, Mandarin (Taiwan)",
